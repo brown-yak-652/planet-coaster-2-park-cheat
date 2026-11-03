@@ -47,3 +47,4 @@ The button and cover open the project's download page. Use the information suppl
 ---
 
 Planet Coaster 2 Park Planner · Program documentation and download information.
+                                                                                                    
